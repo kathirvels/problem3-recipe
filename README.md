@@ -2,8 +2,10 @@
 
 In the project directory, you can run:
 
-API call Please install the below module
-### `npm instal axios`
+Run the install command to install the dependencies
+### `npm instal`
+
+Start the application 
 ### `npm start`
 
 Runs the app in the development mode.<br>
