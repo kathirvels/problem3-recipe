@@ -2,6 +2,10 @@
 
 In the project directory, you can run:
 
+SVN checkout (GitHub.com) 
+
+https://github.com/kathirvels/problem3-recipe.git
+
 Run the install command to install the dependencies
 ### `npm instal`
 
